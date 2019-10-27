@@ -1,0 +1,3 @@
+telephone: +79994954025
+password: 9rw879SF74
+key_api: 4c6103998d2af42e1a04672def9ffe6dc5bbae6f79ac2e2e5cd73973ade0ccccbff108b3c896e212246ef
