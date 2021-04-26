@@ -14,12 +14,12 @@ import random
 neko = ['неко', 'енко', 'neko', 'enko', 'ekon', 'nkeo']
 search = ['search', 'поиск', 'гугл']
 
-vk_session = vk_api.VkApi(token="4c6103998d2af42e1a04672def9ffe6dc5bbae6f79ac2e2e5cd73973ade0ccccbff108b3c896e212246ef")
-#пример  vk_session = vk_api.VkApi(token = "a6f87v8c9a9sa87a7af9a0f9f9v8a6s6c5b5m6n8bds09asc8d7b87d87bd87n"
+vk_session = vk_api.VkApi(token="")
+#пример  vk_session = vk_api.VkApi(token = ""
 
 
 def send_photo(msg):
-    ck = vk_api.VkApi(token="db5dc6b0db5dc6b0db5dc6b00cdb307695ddb5ddb5dc6b086e58049a30ffd7b2aae27e4")
+    ck = vk_api.VkApi(token="")
     for s in search:
         msg = msg.replace(s, '')
 
@@ -110,7 +110,7 @@ vk.messages.send(
     message="Kon'nichiwa nyaaa!"
 )
 
-longpoll = VkBotLongPoll(vk_session, "188055889")
+longpoll = VkBotLongPoll(vk_session, "")
 
 
 for event in longpoll.listen(): #Проверка действий
