@@ -1,5 +1,5 @@
 {
-  "+79521589121": {
+  "telephone": {
     "cookies": [
       {
         "comment": null,
@@ -169,10 +169,10 @@
     "token": {
       "app6222115": {
         "scope_140492255": {
-          "access_token": "3fb96b4cf92388a9ae579bc76b580dc51920861ec626e26b3399c7d8dc8f6093b3b8a70380da1efc4f96e",
-          "email": "slayraiz@gmail.com",
+          "access_token": "token",
+          "email": "email",
           "expires_in": "0",
-          "user_id": "422717057"
+         "user_id": "user_id"
         }
       }
     }
@@ -347,19 +347,19 @@
     "token": {
       "app6222115": {
         "scope_140488159": {
-          "access_token": "dfd51ede812f05a7c0cf133bcc99211e248507089daf4f85b89808c16413fb617518e7e88bbd2d8c3f8dc",
+          "access_token": "token",
           "expires_in": "0",
-          "user_id": "555481126"
+          "user_id": "user_id"
         },
         "scope_140492255": {
-          "access_token": "d905afbd49c5d596d426ab01342a6e18bb1bdf2f0643095e5180b307b9bbeba1f1187ac99369edc2d527e",
+           "access_token": "token",
           "expires_in": "0",
-          "user_id": "555481126"
+          "user_id": "user_id"
         },
         "scope_messages": {
-          "access_token": "ff68e17f62a7111e5154a644664a692eb52087e287d7b1fa13d4465cbb5be8eedd1e6fa9e8fe129b0ae98",
-          "expires_in": "86400",
-          "user_id": "555481126"
+           "access_token": "token",
+          "expires_in": "0",
+          "user_id": "user_id"
         }
       }
     }
