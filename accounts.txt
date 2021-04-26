@@ -1,8 +1,0 @@
-telephone: +79994954025
-password: 9rw879SF74
-key_api: 4c6103998d2af42e1a04672def9ffe6dc5bbae6f79ac2e2e5cd73973ade0ccccbff108b3c896e212246ef
-
-
-API_ID, APP_ID, client_id:	7188517
-key:1pweAhUHsPd3gGhyJcVy
-service_key:db5dc6b0db5dc6b0db5dc6b00cdb307695ddb5ddb5dc6b086e58049a30ffd7b2aae27e4
